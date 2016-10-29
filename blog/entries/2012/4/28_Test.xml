@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="76DCAA6C-F85F-4C72-9FE0-4C47E91BD9DD">
+  <lastEdited clientType="local-build-20120623" date="2012-06-24 01:20:38 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;JPC Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Test</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>This is nothing more than a test.&#xD;&#xD;This is &#x201C;Wind from the South&#x201D;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, April 28, 2012&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="28_Test_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

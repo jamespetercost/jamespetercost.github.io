@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>https://dl.dropbox.com/u/4429130/HONdotcom/index.html/Harrods_Of_Newport/Blog</link>
+    <description>You&#x2019;re invited to relate your experience both in showing your James Peter Cost original painting on this website, and while working with BettyJo Cost for the purpose of resale. If you are new to this site, your inquiries are welcomed.</description>
+    <item>
+      <title>&#x201C;Fill-er-up&#x201D; </title>
+      <link>https://dl.dropbox.com/u/4429130/HONdotcom/index.html/Harrods_Of_Newport/Blog/Entries/2012/6/23_Fill-er-up.html</link>
+      <guid isPermaLink="false">9ecf8356-2795-4559-8b7a-d5551bd7505c</guid>
+      <pubDate>Sat, 23 Jun 2012 16:59:49 -0700</pubDate>
+      <iweb:comment enabled="0" count="0" link="https://dl.dropbox.com/u/4429130/HONdotcom/index.html/Harrods_Of_Newport/Blog/Entries/2012/6/23_Fill-er-up.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>https://dl.dropbox.com/u/4429130/HONdotcom/index.html/Harrods_Of_Newport/Blog/Entries/2012/4/28_Test.html</link>
+      <guid isPermaLink="false">40015270-33e2-4900-9e5e-95fb78d44601</guid>
+      <pubDate>Sat, 28 Apr 2012 15:20:38 -0700</pubDate>
+      <iweb:comment enabled="0" count="0" link="https://dl.dropbox.com/u/4429130/HONdotcom/index.html/Harrods_Of_Newport/Blog/Entries/2012/4/28_Test.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>https://dl.dropbox.com/u/4429130/HONdotcom/index.html/Harrods_Of_Newport/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

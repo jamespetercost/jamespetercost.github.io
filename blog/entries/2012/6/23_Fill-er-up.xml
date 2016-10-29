@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="76DCAA6C-F85F-4C72-9FE0-4C47E91BD9DD">
+  <lastEdited clientType="local-build-20120624" date="2012-06-24 16:57:55 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;JPC Blog&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&#x201C;Fill-er-up&#x201D; </richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>This LIMITED EDITION of 700 are all signed by James Peter Cost.  This magnificent piece, is a Silkscreen Serigraph on canvas that spans 8&#x2018;X2&#x2019; when stretched. &#xD;&#xD;    In Manhattan Beach, California, just two block from where I lived, stood fifteen of these stately giants, in each of three rows.  White, blue-green or bright orange gasoline flooded into the glass tanks while an attendant dressed in a stained, but freshly ironed white shirt and black leather bow-tie, hurled the pump handle back and forth.&#xD;&#xD;    &#x201C;How many, Sir?&#x201D; he would ask each of the drivers who pulled into the gas station.&#xD;&#xD;    &#x201C;Fillerup,&#x201D; was most often the reply.&#xD;&#xD;    The gas nozzle clunked against the hole in the hood of the car and immediately the air around the tank spout began to shimmer with gas fumes.  The driver would turn to look over his shoulder at the small bowl of gasoline near the top of the hose to see if the propeller was turning at the correct speed.&#xD;&#xD;    The driver who ordered less than 10 gallons would often get out of his car to examine the exact line of gasoline in the glass tank.  A short quick squeeze of the nozzle would insure the last drop of gas, and satisfy a leary customer.  Then, he would hand the attendant a $2 bill.&#xD;&#xD;    The attendant would click two dimes out of the change-maker attached to his belt and hand it to the driver.  &#x201C;Thank you, Sir,&#x201D; he would add, touching the bill of his cap with his right forefinger in an informal salute.  The car would then pull away from the pump, scattering gravel as it went.&#xD;&#xD;Until World War II, these symbols of America&#x2019;s mobility dominated the urban and rural scenes in every city and town in the United States.  These sentinels of the roadways...like the $2 bill and leather bow-tie...are gone, but not forgotten.&#xD;&#xD;&lt;b&gt;PRICE:&lt;/b&gt; $800                        See the Order Page for details</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText></richText>
+  </textBox>
+</content>
