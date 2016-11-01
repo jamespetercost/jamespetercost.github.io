@@ -1,5 +1,27 @@
 .paragraph_style {
     color: rgb(255, 255, 255);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 25px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_1 {
+    color: rgb(255, 255, 255);
     font-family: 'PMingLiU-ExtB';
     font-size: 36px;
     font-stretch: normal;
@@ -20,7 +42,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_1 {
+.paragraph_style_2 {
     color: rgb(255, 255, 255);
     font-family: 'PMingLiU-ExtB';
     font-size: 20px;
@@ -45,7 +67,7 @@
 .style {
     padding: 4px;
 }
-.paragraph_style_2 {
+.paragraph_style_3 {
     color: rgb(255, 255, 255);
     font-family: 'PMingLiU-ExtB';
     font-size: 18px;
@@ -67,7 +89,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_3 {
+.paragraph_style_4 {
     color: rgb(255, 255, 255);
     font-family: 'PMingLiU-ExtB';
     font-size: 15px;
@@ -89,7 +111,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_4 {
+.paragraph_style_5 {
     color: rgb(255, 255, 255);
     font-family: 'PMingLiU-ExtB';
     font-size: 23px;
@@ -111,7 +133,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_5 {
+.paragraph_style_6 {
     color: rgb(255, 255, 255);
     font-family: 'PMingLiU-ExtB';
     font-size: 13px;
@@ -133,7 +155,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_6 {
+.paragraph_style_7 {
     color: rgb(255, 255, 255);
     font-family: 'PMingLiU-ExtB';
     font-size: 12px;
@@ -162,7 +184,7 @@
 .style_External_325_464 {
     position: relative;
 }
-.paragraph_style_7 {
+.paragraph_style_8 {
     color: rgb(255, 255, 255);
     font-family: 'PMingLiU-ExtB';
     font-size: 18px;
@@ -172,28 +194,6 @@
     font-weight: 400;
     letter-spacing: 0;
     line-height: 26px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: justify;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_8 {
-    color: rgb(255, 255, 255);
-    font-family: 'PMingLiU-ExtB';
-    font-size: 15px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 21px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -223,10 +223,51 @@
     opacity: 1.00;
     padding-bottom: 0px;
     padding-top: 0px;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
+.paragraph_style_10 {
+    color: rgb(255, 255, 255);
+    font-family: 'PMingLiU-ExtB';
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 21px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
     text-align: center;
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
+}
+.style_External_290_156 {
+    position: relative;
 }
 .style_2 {
     font-family: 'PMingLiU-ExtB';
@@ -236,18 +277,6 @@
     font-weight: 400;
     line-height: 20px;
 }
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_2 {
-    background: transparent;
-    opacity: 1.00;
-}
 .style_3 {
     font-family: 'PMingLiU-ExtB';
     font-size: 12px;
@@ -256,7 +285,7 @@
     font-weight: 400;
     line-height: 16px;
 }
-.paragraph_style_10 {
+.paragraph_style_11 {
     color: rgb(255, 255, 255);
     font-family: 'PMingLiU-ExtB';
     font-size: 4px;
@@ -278,9 +307,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_290_156 {
-    position: relative;
-}
 .style_4 {
     font-family: 'PMingLiU-ExtB';
     font-size: 13px;
@@ -289,7 +315,7 @@
     font-weight: 400;
     line-height: 19px;
 }
-.paragraph_style_11 {
+.paragraph_style_12 {
     color: rgb(255, 255, 255);
     font-family: 'PMingLiU-ExtB';
     font-size: 3px;
@@ -311,7 +337,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_12 {
+.paragraph_style_13 {
     color: rgb(255, 255, 255);
     font-family: 'PMingLiU-ExtB';
     font-size: 10px;
@@ -392,10 +418,10 @@
 .Normal {
     padding: 4px;
 }
-.Normal_External_640_236 {
+.Normal_External_630_76 {
     position: relative;
 }
-.Normal_External_630_76 {
+.Normal_External_640_236 {
     position: relative;
 }
 .Normal_External_290_156 {
@@ -446,6 +472,16 @@
 }
 .graphic_shape_layout_style_default_External_423_57 {
     position: relative;
+}
+.graphic_textbox_layout_style_default {
+    padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_630_55 {
+    position: relative;
+}
+.graphic_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
 }
 a {
     color: rgb(255, 255, 255);

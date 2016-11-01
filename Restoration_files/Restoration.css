@@ -1,7 +1,29 @@
+.paragraph_style {
+    color: rgb(255, 255, 255);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 25px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
 .style {
     padding: 4px;
 }
-.paragraph_style {
+.paragraph_style_1 {
     color: rgb(255, 255, 255);
     font-family: 'PMingLiU-ExtB';
     font-size: 36px;
@@ -23,7 +45,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_1 {
+.paragraph_style_2 {
     color: rgb(255, 255, 255);
     font-family: 'PMingLiU-ExtB';
     font-size: 23px;
@@ -45,10 +67,17 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_630_74 {
-    position: relative;
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
 }
-.paragraph_style_2 {
+.style_SkipStrokeSkipFillSkipOpacity {
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.paragraph_style_3 {
     color: rgb(255, 255, 255);
     font-family: 'PMingLiU-ExtB';
     font-size: 13px;
@@ -74,18 +103,15 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_655_90 {
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_External_630_74 {
     position: relative;
 }
-.style_SkipStrokeSkipFillSkipOpacity {
-}
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
+.style_External_655_90 {
+    position: relative;
 }
 .Body {
     color: rgb(255, 255, 255);
@@ -134,23 +160,33 @@
 .Normal {
     padding: 4px;
 }
+.Normal_External_630_74 {
+    position: relative;
+}
 .Normal_External_655_90 {
     position: relative;
 }
-.Normal_External_630_74 {
-    position: relative;
+.graphic_generic_body_textbox_style_default_SkipStrokeSkipFillSkipOpacity {
 }
 .graphic_generic_body_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
-}
-.graphic_generic_body_textbox_style_default_SkipStrokeSkipFillSkipOpacity {
 }
 .graphic_generic_header_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }
 .graphic_image_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_textbox_layout_style_default {
+    padding: 4px;
+}
+.graphic_textbox_layout_style_default_External_630_55 {
+    position: relative;
+}
+.graphic_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }
