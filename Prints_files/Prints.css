@@ -1,13 +1,13 @@
 .paragraph_style {
     color: rgb(255, 255, 255);
     font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 18px;
+    font-size: 15px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 25px;
+    line-height: 20px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -86,6 +86,12 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_External_290_47 {
+    position: relative;
+}
+.style_External_630_81 {
+    position: relative;
+}
 .paragraph_style_3 {
     color: rgb(252, 253, 255);
     font-family: 'PMingLiU-ExtB';
@@ -107,12 +113,6 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.style_External_290_47 {
-    position: relative;
-}
-.style_External_630_81 {
-    position: relative;
 }
 .style_External_630_137 {
     position: relative;
@@ -183,9 +183,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_4.vertical-align-middle-innerbox {
-    padding: 4px;
-}
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
@@ -201,6 +198,9 @@
 .style_SkipStroke_3 {
     background: transparent;
     opacity: 1.00;
+}
+.style_4.vertical-align-middle-innerbox {
+    padding: 4px;
 }
 .style_External_290_85.vertical-align-middle-middlebox {
     height: 85px;
@@ -290,10 +290,10 @@
 .Normal_External_290_160 {
     position: relative;
 }
-.Normal_External_630_88 {
+.Normal_External_290_92 {
     position: relative;
 }
-.Normal_External_290_92 {
+.Normal_External_630_88 {
     position: relative;
 }
 .Normal_External_290_45 {
@@ -349,11 +349,11 @@
 .graphic_shape_layout_style_default_External_630_81 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_567_30 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default {
     padding: 4px;
-}
-.graphic_textbox_layout_style_default_External_630_55 {
-    position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
@@ -371,15 +371,11 @@ a:hover {
     color: rgb(221, 221, 221);
     text-decoration: underline;
 }
-#widget1 a {
-    color: rgb(255, 255, 255);
-    text-decoration: underline;
+.bumper {
+    font-size: 1px;
+    line-height: 1px;
 }
 #widget0 a:hover {
-    color: rgb(221, 221, 221);
-    text-decoration: underline;
-}
-#widget1 a:hover {
     color: rgb(221, 221, 221);
     text-decoration: underline;
 }
@@ -391,15 +387,7 @@ a:hover {
     color: rgb(255, 255, 255);
     text-decoration: underline;
 }
-#widget1 a:visited {
-    color: rgb(255, 255, 255);
-    text-decoration: underline;
-}
 .spacer {
-    font-size: 1px;
-    line-height: 1px;
-}
-.bumper {
     font-size: 1px;
     line-height: 1px;
 }

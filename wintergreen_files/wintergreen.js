@@ -1,11 +1,9 @@
-// Created by iWeb 3.0.4 local-build-20120623
+// Created by iWeb 3.0.4 local-build-20161201
 
-setTransparentGifURL('Media/transparent.gif');function applyEffects()
-{var registry=IWCreateEffectRegistry();registry.registerEffects({shadow_0:new IWShadow({blurRadius:10,offset:new IWPoint(4.2426,4.2426),color:'#000000',opacity:0.750000})});registry.applyEffects();}
-function hostedOnDM()
+setTransparentGifURL('Media/transparent.gif');function hostedOnDM()
 {return false;}
 function onPageLoad()
 {loadMozillaCSS('wintergreen_files/wintergreenMoz.css')
-detectBrowser();Widget.onload();fixAllIEPNGs('Media/transparent.gif');IMpreload('wintergreen_files','shapeimage_3','0');applyEffects()}
+detectBrowser();fixAllIEPNGs('Media/transparent.gif');IMpreload('wintergreen_files','shapeimage_3','0');Widget.onload();performPostEffectsFixups()}
 function onPageUnload()
 {Widget.onunload();}

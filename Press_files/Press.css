@@ -1,27 +1,5 @@
 .paragraph_style {
     color: rgb(255, 255, 255);
-    font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 18px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 25px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_1 {
-    color: rgb(255, 255, 255);
     font-family: 'PMingLiU-ExtB';
     font-size: 36px;
     font-stretch: normal;
@@ -42,7 +20,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_2 {
+.paragraph_style_1 {
     color: rgb(255, 255, 255);
     font-family: 'PMingLiU-ExtB';
     font-size: 20px;
@@ -60,6 +38,28 @@
     padding-bottom: 0px;
     padding-top: 0px;
     text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_2 {
+    color: rgb(255, 255, 255);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
@@ -228,10 +228,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
 .style_SkipStroke_2 {
     background: transparent;
     opacity: 1.00;
@@ -240,9 +236,16 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
 .style_SkipStroke_3 {
     background: transparent;
     opacity: 1.00;
+}
+.style_External_290_156 {
+    position: relative;
 }
 .paragraph_style_10 {
     color: rgb(255, 255, 255);
@@ -265,9 +268,6 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.style_External_290_156 {
-    position: relative;
 }
 .style_2 {
     font-family: 'PMingLiU-ExtB';
@@ -337,6 +337,9 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_External_648_432 {
+    position: relative;
+}
 .paragraph_style_13 {
     color: rgb(255, 255, 255);
     font-family: 'PMingLiU-ExtB';
@@ -358,9 +361,6 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.style_External_648_432 {
-    position: relative;
 }
 .style_External_414_162 {
     position: relative;
@@ -473,11 +473,11 @@
 .graphic_shape_layout_style_default_External_423_57 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_567_30 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default {
     padding: 4px;
-}
-.graphic_textbox_layout_style_default_External_630_55 {
-    position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
@@ -495,31 +495,7 @@ a:hover {
     color: rgb(221, 221, 221);
     text-decoration: underline;
 }
-#widget1 a {
-    color: rgb(255, 255, 255);
-    text-decoration: underline;
-}
-#widget0 a:hover {
-    color: rgb(221, 221, 221);
-    text-decoration: underline;
-}
-#widget1 a:hover {
-    color: rgb(221, 221, 221);
-    text-decoration: underline;
-}
-#widget0 a:visited {
-    color: rgb(255, 255, 255);
-    text-decoration: underline;
-}
-#widget0 a {
-    color: rgb(255, 255, 255);
-    text-decoration: underline;
-}
-#widget1 a:visited {
-    color: rgb(255, 255, 255);
-    text-decoration: underline;
-}
-.spacer {
+.bumper {
     font-size: 1px;
     line-height: 1px;
 }
@@ -527,9 +503,21 @@ a:hover {
     font-size: 1px;
     line-height: 1px;
 }
-.bumper {
+#widget0 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget0 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+.spacer {
     font-size: 1px;
     line-height: 1px;
+}
+#widget0 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
 }
 body { 
     -webkit-text-size-adjust: none;

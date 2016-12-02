@@ -2,19 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:693BB716-0DA5-4F67-8A26-355FBEDFA68E</id>
  <title>Page list Atom feed</title>
- <updated>2016-10-31T19:16:41-07:00</updated>
+ <updated>2016-12-01T20:49:16-08:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
   <name>iWeb</name>
  </author>
- <entry>
-  <id>urn:iweb:575A5DEA-C25F-41FF-952B-68582E7D1A03</id>
-  <title>Links</title>
-  <title xmlns="urn:iweb:">Links</title>
-  <in-navbar xmlns="urn:iweb:">575A5DEA-C25F-41FF-952B-68582E7D1A03</in-navbar>
-  <link rel="alternate" href="Links.html"/>
-  <updated>2016-10-31T19:16:41.001-07:00</updated>
-  <content>Links</content>
- </entry>
 </feed>

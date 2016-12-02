@@ -1,29 +1,7 @@
-.paragraph_style {
-    color: rgb(255, 255, 255);
-    font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 18px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 25px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
 .style {
     padding: 4px;
 }
-.paragraph_style_1 {
+.paragraph_style {
     color: rgb(255, 255, 255);
     font-family: 'PMingLiU-ExtB';
     font-size: 36px;
@@ -41,6 +19,28 @@
     padding-bottom: 0px;
     padding-top: 0px;
     text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_1 {
+    color: rgb(255, 255, 255);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
@@ -180,11 +180,11 @@
 .style_External_320_107 {
     position: relative;
 }
-.style_SkipStroke_1 {
+.style_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStroke {
+.style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
 }
@@ -252,13 +252,13 @@
 .Normal_External_320_116 {
     position: relative;
 }
-.Normal_External_320_127 {
-    position: relative;
-}
 .Normal_External_655_82 {
     position: relative;
 }
 .Normal_External_320_107 {
+    position: relative;
+}
+.Normal_External_320_127 {
     position: relative;
 }
 .Normal_External_630_50 {
@@ -304,11 +304,11 @@
 .graphic_shape_layout_style_default {
     padding: 4px;
 }
+.graphic_textbox_layout_style_default_External_567_30 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default {
     padding: 4px;
-}
-.graphic_textbox_layout_style_default_External_630_55 {
-    position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
@@ -326,31 +326,7 @@ a:hover {
     color: rgb(221, 221, 221);
     text-decoration: underline;
 }
-#widget1 a {
-    color: rgb(255, 255, 255);
-    text-decoration: underline;
-}
-#widget0 a:hover {
-    color: rgb(221, 221, 221);
-    text-decoration: underline;
-}
-#widget1 a:hover {
-    color: rgb(221, 221, 221);
-    text-decoration: underline;
-}
-#widget0 a:visited {
-    color: rgb(255, 255, 255);
-    text-decoration: underline;
-}
-#widget0 a {
-    color: rgb(255, 255, 255);
-    text-decoration: underline;
-}
-#widget1 a:visited {
-    color: rgb(255, 255, 255);
-    text-decoration: underline;
-}
-.spacer {
+.bumper {
     font-size: 1px;
     line-height: 1px;
 }
@@ -358,9 +334,21 @@ a:hover {
     font-size: 1px;
     line-height: 1px;
 }
-.bumper {
+#widget0 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget0 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+.spacer {
     font-size: 1px;
     line-height: 1px;
+}
+#widget0 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
 }
 body { 
     -webkit-text-size-adjust: none;
