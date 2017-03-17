@@ -262,11 +262,6 @@
 .style_External_630_97 {
     position: relative;
 }
-.style_External_290_95.vertical-align-middle-middlebox {
-    height: 95px;
-    position: relative;
-    width: 290px;
-}
 .style_External_290_195 {
     position: relative;
 }
@@ -280,6 +275,11 @@
 }
 .style_External_290_131 {
     position: relative;
+}
+.style_External_290_131_1.vertical-align-middle-middlebox {
+    height: 131px;
+    position: relative;
+    width: 290px;
 }
 .style_External_290_213 {
     position: relative;
@@ -320,6 +320,11 @@
 }
 .style_External_290_138 {
     position: relative;
+}
+.style_External_290_138_1.vertical-align-middle-middlebox {
+    height: 138px;
+    position: relative;
+    width: 290px;
 }
 .style_External_290_146 {
     position: relative;
@@ -405,9 +410,6 @@
     position: relative;
 }
 .Normal_External_290_213 {
-    position: relative;
-}
-.Normal_External_290_95 {
     position: relative;
 }
 .Normal_External_290_195 {
