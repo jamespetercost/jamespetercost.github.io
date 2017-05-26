@@ -267,11 +267,6 @@
     position: relative;
     width: 290px;
 }
-.style_External_290_192.vertical-align-middle-middlebox {
-    height: 192px;
-    position: relative;
-    width: 290px;
-}
 .style_External_290_195 {
     position: relative;
 }
@@ -339,6 +334,11 @@
 .style_External_290_146 {
     position: relative;
 }
+.style_External_290_156.vertical-align-middle-middlebox {
+    height: 156px;
+    position: relative;
+    width: 290px;
+}
 .style_External_655_82 {
     position: relative;
 }
@@ -401,6 +401,9 @@
 .Normal_External_290_185 {
     position: relative;
 }
+.Normal_External_290_156 {
+    position: relative;
+}
 .Normal_External_290_210 {
     position: relative;
 }
@@ -426,9 +429,6 @@
     position: relative;
 }
 .Normal_External_290_213 {
-    position: relative;
-}
-.Normal_External_290_192 {
     position: relative;
 }
 .Normal_External_290_195 {
